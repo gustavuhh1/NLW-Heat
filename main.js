@@ -32,5 +32,5 @@ function getGitHubProfileInfos(){
 
 
 }
-// GG stage 4
+// GG Project
 getGitHubProfileInfos()
